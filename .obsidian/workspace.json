@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "725a19841493da2b",
-        "type": "tabs",
-        "dimension": 46.24664879356568,
-        "children": [
-          {
-            "id": "05a867e037521e3a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "机器学习个人笔记完整版v5.52-A4打印版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "机器学习个人笔记完整版v5.52-A4打印版"
-            }
-          }
-        ]
-      },
-      {
         "id": "113d332c25f54bc9",
         "type": "tabs",
-        "dimension": 53.75335120643432,
         "children": [
           {
             "id": "b64c1387d9f5ee53",
